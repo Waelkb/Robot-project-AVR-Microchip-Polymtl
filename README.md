@@ -207,4 +207,5 @@ make install
 ```
 Assurez-vous que le microcontrôleur est connecté via USB. Le microcontrôleur ainsi que la voiture robot doivent être correctement configurés avec les broches spécifiées dans le code.
 #   R o b o t - p r o j e c t - A V R - M i c r o c h i p - P o l y m t l  
+ #   R o b o t - p r o j e c t - A V R - M i c r o c h i p - P o l y m t l  
  
